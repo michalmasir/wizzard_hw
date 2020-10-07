@@ -1,0 +1,5 @@
+1. To build the project "mvn package" from wandera-hw directory.
+2. run "java -jar wandera-hw-1.0-SNAPSHOT.jar server notification-service.yaml" from directory containing the build jar
+3. profit
+
+

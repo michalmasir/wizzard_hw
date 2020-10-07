@@ -1,0 +1,15 @@
+{
+  "notificationGuid": "2affbe87-fd11-4e38-997c-7adf3dc6a9e6",
+  "deviceGuid": "48f31433-0fd0-433c-ba93-ee1080cb0e09",
+  "userGuid": "286416b4-7eac-433c-876c-339dfd8bcd68",
+  "eventType": "SITE_BLOCKED",
+  "eventSubtype": "ADULT",
+  "geofenceLat": null,
+  "geofenceLon": null,
+  "geofenceRadiusMetres": null,
+  "title": "Site/App block",
+  "content": "Adult",
+  "eventTimestamp": 1390235400000,
+  "sentTimestamp": 1390235423000,
+  "displayedStatus": false
+}
